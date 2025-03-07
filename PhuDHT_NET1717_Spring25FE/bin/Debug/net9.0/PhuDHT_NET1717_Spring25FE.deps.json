@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PhuDHT_NET1717_Spring25FE/1.0.0": {
+        "runtime": {
+          "PhuDHT_NET1717_Spring25FE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhuDHT_NET1717_Spring25FE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

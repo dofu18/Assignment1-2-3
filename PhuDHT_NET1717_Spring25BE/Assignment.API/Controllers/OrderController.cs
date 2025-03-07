@@ -1,6 +1,7 @@
 using Assignment.Data.Models;
 using Assignment.Service;
 using Assignment.Service.Dto;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.OData.Query;
 
@@ -24,6 +25,7 @@ public class OrderController : ControllerBase
         return StatusCode(result.Status, result);
     }
 
+    [Authorize(Roles = "Admin|User")]
     [HttpGet("{id}")]
     public async Task<IActionResult> GetById(Guid id)
     {
@@ -31,6 +33,7 @@ public class OrderController : ControllerBase
         return StatusCode(result.Status, result);
     }
 
+    [Authorize(Roles = "Admin|User")]
     [HttpPost]
     public async Task<IActionResult> Create([FromBody] OrderCreateDto order)
     {
@@ -38,6 +41,7 @@ public class OrderController : ControllerBase
         return StatusCode(result.Status, result);
     }
 
+    [Authorize(Roles = "Admin")]
     [HttpDelete("{id}")]
     public async Task<IActionResult> Delete(Guid id)
     {
@@ -45,6 +49,7 @@ public class OrderController : ControllerBase
         return StatusCode(result.Status, result);
     }
 
+    [Authorize(Roles = "Admin")]
     [HttpGet("Odata")]
     [EnableQuery]
     public IActionResult GetOrders()

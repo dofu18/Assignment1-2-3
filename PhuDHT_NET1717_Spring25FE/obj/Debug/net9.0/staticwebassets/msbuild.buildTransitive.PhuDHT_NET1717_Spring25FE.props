@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PhuDHT_NET1717_Spring25FE.props" />
+</Project>

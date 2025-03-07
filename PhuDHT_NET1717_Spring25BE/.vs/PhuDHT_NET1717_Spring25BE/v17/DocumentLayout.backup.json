@@ -1,45 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\",
+  "WorkspaceRootPath": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE8F94FE-0A45-45F7-BE14-B4E58CFDEDF0}|Assignment.API\\Assignment.API.csproj|d:\\fpt_university\\term_8\\prn231\\phudht_net1717_spring25be\\assignment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE8F94FE-0A45-45F7-BE14-B4E58CFDEDF0}|Assignment.API\\Assignment.API.csproj|d:\\fpt_university\\term_8\\prn231\\assignment\\phudht_net1717_spring25be\\assignment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE8F94FE-0A45-45F7-BE14-B4E58CFDEDF0}|Assignment.API\\Assignment.API.csproj|solutionrelative:assignment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39450F22-F2C9-4659-A1BE-7B05A240597F}|Assignment.Service\\Assignment.Service.csproj|d:\\fpt_university\\term_8\\prn231\\phudht_net1717_spring25be\\assignment.service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE8F94FE-0A45-45F7-BE14-B4E58CFDEDF0}|Assignment.API\\Assignment.API.csproj|d:\\fpt_university\\term_8\\prn231\\assignment\\phudht_net1717_spring25be\\assignment.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F94FE-0A45-45F7-BE14-B4E58CFDEDF0}|Assignment.API\\Assignment.API.csproj|solutionrelative:assignment.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39450F22-F2C9-4659-A1BE-7B05A240597F}|Assignment.Service\\Assignment.Service.csproj|d:\\fpt_university\\term_8\\prn231\\assignment\\phudht_net1717_spring25be\\assignment.service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39450F22-F2C9-4659-A1BE-7B05A240597F}|Assignment.Service\\Assignment.Service.csproj|solutionrelative:assignment.service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE8F94FE-0A45-45F7-BE14-B4E58CFDEDF0}|Assignment.API\\Assignment.API.csproj|d:\\fpt_university\\term_8\\prn231\\phudht_net1717_spring25be\\assignment.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE8F94FE-0A45-45F7-BE14-B4E58CFDEDF0}|Assignment.API\\Assignment.API.csproj|solutionrelative:assignment.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C61D60F3-5541-4E74-9F85-CDF43F87AEEE}|Assignment.Data\\Assignment.Data.csproj|d:\\fpt_university\\term_8\\prn231\\phudht_net1717_spring25be\\assignment.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C61D60F3-5541-4E74-9F85-CDF43F87AEEE}|Assignment.Data\\Assignment.Data.csproj|solutionrelative:assignment.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C61D60F3-5541-4E74-9F85-CDF43F87AEEE}|Assignment.Data\\Assignment.Data.csproj|d:\\fpt_university\\term_8\\prn231\\phudht_net1717_spring25be\\assignment.data\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C61D60F3-5541-4E74-9F85-CDF43F87AEEE}|Assignment.Data\\Assignment.Data.csproj|solutionrelative:assignment.data\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39450F22-F2C9-4659-A1BE-7B05A240597F}|Assignment.Service\\Assignment.Service.csproj|d:\\fpt_university\\term_8\\prn231\\phudht_net1717_spring25be\\assignment.service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39450F22-F2C9-4659-A1BE-7B05A240597F}|Assignment.Service\\Assignment.Service.csproj|solutionrelative:assignment.service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39450F22-F2C9-4659-A1BE-7B05A240597F}|Assignment.Service\\Assignment.Service.csproj|d:\\fpt_university\\term_8\\prn231\\phudht_net1717_spring25be\\assignment.service\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39450F22-F2C9-4659-A1BE-7B05A240597F}|Assignment.Service\\Assignment.Service.csproj|d:\\fpt_university\\term_8\\prn231\\assignment\\phudht_net1717_spring25be\\assignment.service\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39450F22-F2C9-4659-A1BE-7B05A240597F}|Assignment.Service\\Assignment.Service.csproj|solutionrelative:assignment.service\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39450F22-F2C9-4659-A1BE-7B05A240597F}|Assignment.Service\\Assignment.Service.csproj|d:\\fpt_university\\term_8\\prn231\\phudht_net1717_spring25be\\assignment.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE8F94FE-0A45-45F7-BE14-B4E58CFDEDF0}|Assignment.API\\Assignment.API.csproj|d:\\fpt_university\\term_8\\prn231\\assignment\\phudht_net1717_spring25be\\assignment.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F94FE-0A45-45F7-BE14-B4E58CFDEDF0}|Assignment.API\\Assignment.API.csproj|solutionrelative:assignment.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F94FE-0A45-45F7-BE14-B4E58CFDEDF0}|Assignment.API\\Assignment.API.csproj|d:\\fpt_university\\term_8\\prn231\\assignment\\phudht_net1717_spring25be\\assignment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE8F94FE-0A45-45F7-BE14-B4E58CFDEDF0}|Assignment.API\\Assignment.API.csproj|solutionrelative:assignment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61D60F3-5541-4E74-9F85-CDF43F87AEEE}|Assignment.Data\\Assignment.Data.csproj|d:\\fpt_university\\term_8\\prn231\\assignment\\phudht_net1717_spring25be\\assignment.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61D60F3-5541-4E74-9F85-CDF43F87AEEE}|Assignment.Data\\Assignment.Data.csproj|solutionrelative:assignment.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61D60F3-5541-4E74-9F85-CDF43F87AEEE}|Assignment.Data\\Assignment.Data.csproj|d:\\fpt_university\\term_8\\prn231\\assignment\\phudht_net1717_spring25be\\assignment.data\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61D60F3-5541-4E74-9F85-CDF43F87AEEE}|Assignment.Data\\Assignment.Data.csproj|solutionrelative:assignment.data\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39450F22-F2C9-4659-A1BE-7B05A240597F}|Assignment.Service\\Assignment.Service.csproj|d:\\fpt_university\\term_8\\prn231\\assignment\\phudht_net1717_spring25be\\assignment.service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39450F22-F2C9-4659-A1BE-7B05A240597F}|Assignment.Service\\Assignment.Service.csproj|solutionrelative:assignment.service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39450F22-F2C9-4659-A1BE-7B05A240597F}|Assignment.Service\\Assignment.Service.csproj|d:\\fpt_university\\term_8\\prn231\\assignment\\phudht_net1717_spring25be\\assignment.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39450F22-F2C9-4659-A1BE-7B05A240597F}|Assignment.Service\\Assignment.Service.csproj|solutionrelative:assignment.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39450F22-F2C9-4659-A1BE-7B05A240597F}|Assignment.Service\\Assignment.Service.csproj|d:\\fpt_university\\term_8\\prn231\\phudht_net1717_spring25be\\assignment.service\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39450F22-F2C9-4659-A1BE-7B05A240597F}|Assignment.Service\\Assignment.Service.csproj|d:\\fpt_university\\term_8\\prn231\\assignment\\phudht_net1717_spring25be\\assignment.service\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39450F22-F2C9-4659-A1BE-7B05A240597F}|Assignment.Service\\Assignment.Service.csproj|solutionrelative:assignment.service\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C61D60F3-5541-4E74-9F85-CDF43F87AEEE}|Assignment.Data\\Assignment.Data.csproj|d:\\fpt_university\\term_8\\prn231\\phudht_net1717_spring25be\\assignment.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C61D60F3-5541-4E74-9F85-CDF43F87AEEE}|Assignment.Data\\Assignment.Data.csproj|d:\\fpt_university\\term_8\\prn231\\assignment\\phudht_net1717_spring25be\\assignment.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C61D60F3-5541-4E74-9F85-CDF43F87AEEE}|Assignment.Data\\Assignment.Data.csproj|solutionrelative:assignment.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,76 +82,97 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Assignment.API\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Assignment.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:01:58.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Assignment.API\\appsettings.json",
+              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.API\\appsettings.json",
+              "RelativeToolTip": "Assignment.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T14:39:47.422Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.API\\Program.cs",
+              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.API\\Program.cs",
               "RelativeDocumentMoniker": "Assignment.API\\Program.cs",
-              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.API\\Program.cs",
+              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.API\\Program.cs",
               "RelativeToolTip": "Assignment.API\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAIAwwEUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAqwHwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T14:35:34.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\Repository\\UserRepository.cs",
+              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "Assignment.Data\\Repository\\UserRepository.cs",
-              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\Repository\\UserRepository.cs",
               "RelativeToolTip": "Assignment.Data\\Repository\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T14:33:34.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\AuthService.cs",
-              "RelativeDocumentMoniker": "Assignment.Service\\AuthService.cs",
-              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\AuthService.cs",
-              "RelativeToolTip": "Assignment.Service\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T14:30:55.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\Dto\\LoginDto.cs",
-              "RelativeDocumentMoniker": "Assignment.Service\\Dto\\LoginDto.cs",
-              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\Dto\\LoginDto.cs",
-              "RelativeToolTip": "Assignment.Service\\Dto\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T14:19:29.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T14:33:34.915Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Assignment.API\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Assignment.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswB4AAABAAAAAAAAAAA==",
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Assignment.Service\\AuthService.cs",
+              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\AuthService.cs",
+              "RelativeToolTip": "Assignment.Service\\AuthService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwFQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T14:18:33.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T14:30:55.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Assignment.Service\\Dto\\LoginDto.cs",
+              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "Assignment.Service\\Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:19:29.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Assignment.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Assignment.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAMwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:18:33.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\Models\\User.cs",
+              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\Models\\User.cs",
               "RelativeDocumentMoniker": "Assignment.Data\\Models\\User.cs",
-              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\Models\\User.cs",
+              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\Models\\User.cs",
               "RelativeToolTip": "Assignment.Data\\Models\\User.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,11 +180,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "UserDto.cs",
-              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\Dto\\UserDto.cs",
+              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\Dto\\UserDto.cs",
               "RelativeDocumentMoniker": "Assignment.Service\\Dto\\UserDto.cs",
-              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\Dto\\UserDto.cs",
+              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\Dto\\UserDto.cs",
               "RelativeToolTip": "Assignment.Service\\Dto\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,42 +192,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "OrderService.cs",
-              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\OrderService.cs",
+              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\OrderService.cs",
               "RelativeDocumentMoniker": "Assignment.Service\\OrderService.cs",
-              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\OrderService.cs",
+              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\OrderService.cs",
               "RelativeToolTip": "Assignment.Service\\OrderService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAIAzwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T14:07:13.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T14:07:13.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\UnitOfWork.cs",
+              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Assignment.Data\\UnitOfWork.cs",
-              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\UnitOfWork.cs",
+              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\UnitOfWork.cs",
               "RelativeToolTip": "Assignment.Data\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T14:06:13.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T14:06:13.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\UserService.cs",
+              "DocumentMoniker": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\UserService.cs",
               "RelativeDocumentMoniker": "Assignment.Service\\UserService.cs",
-              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\UserService.cs",
+              "ToolTip": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Service\\UserService.cs",
               "RelativeToolTip": "Assignment.Service\\UserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAtwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T14:03:07.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T14:03:07.396Z"
             }
           ]
         }

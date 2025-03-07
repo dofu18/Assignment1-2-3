@@ -3308,11 +3308,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\Assignment.Data.csproj",
+      "projectUniqueName": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\Assignment.Data.csproj",
       "projectName": "Assignment.Data",
-      "projectPath": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\Assignment.Data.csproj",
+      "projectPath": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\Assignment.Data.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\obj\\",
+      "outputPath": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

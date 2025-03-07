@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using Assignment.Data;
 using Assignment.Data.Models;
 using Assignment.Data.Repository;
+using Assignment.Service.Dto;
 using BCrypt.Net;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
@@ -18,6 +19,7 @@ namespace Assignment.Service
     {
         string GenerateJwtToken(User user);
         Task<string?> AuthenticateUserAsync(string username, string password);
+        Task<string> RegisterAsync(RegisterDto registerDto);
     }
 
     public class AuthService : IAuthService
@@ -63,6 +65,35 @@ namespace Assignment.Service
             );
 
             return new JwtSecurityTokenHandler().WriteToken(token);
+        }
+
+        public async Task<string> RegisterAsync(RegisterDto registerDto)
+        {
+            // Kiểm tra username đã tồn tại chưa
+            var existingUser = await _unitOfWork.UserRepository.GetUserByUsernameAsync(registerDto.Username);
+            if (existingUser != null)
+            {
+                return "Username đã tồn tại.";
+            }
+
+            // Hash password
+            string hashedPassword = BCrypt.Net.BCrypt.HashPassword(registerDto.Password);
+
+            // Tạo user mới
+            var newUser = new User
+            {
+                Id = Guid.NewGuid(),
+                FirstName = registerDto.FirstName,
+                LastName = registerDto.LastName,
+                Email = registerDto.Email,
+                UserName = registerDto.Username,
+                HashedPassword = hashedPassword,
+                Role = registerDto.Role
+            };
+
+            await _unitOfWork.UserRepository.CreateAsync(newUser);
+
+            return "Đăng ký thành công!";
         }
     }
 }

@@ -36,6 +36,18 @@ namespace Assignment.API.Controllers
 
             return Ok(new { Token = token });
         }
+
+        [HttpPost("register")]
+        public async Task<IActionResult> Register([FromBody] RegisterDto registerDto)
+        {
+            var result = await _authService.RegisterAsync(registerDto);
+            if (result == "Username đã tồn tại.")
+            {
+                return BadRequest(new { Message = result });
+            }
+
+            return Ok(new { Message = result });
+        }
     }
 
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0lEl0HiH8qo=",
+  "dgSpecHash": "D2aD5eYWwqU=",
   "success": true,
-  "projectFilePath": "D:\\FPT_University\\Term_8\\PRN231\\PhuDHT_NET1717_Spring25BE\\Assignment.API\\Assignment.API.csproj",
+  "projectFilePath": "D:\\FPT_University\\Term_8\\PRN231\\Assignment\\PhuDHT_NET1717_Spring25BE\\Assignment.API\\Assignment.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
