@@ -1,0 +1,14 @@
+D:\FPT_University\Term_8\PRN231\PhuDHT_NET1717_Spring25BE\Assignment.Data\bin\Debug\net9.0\Assignment.Data.deps.json
+D:\FPT_University\Term_8\PRN231\PhuDHT_NET1717_Spring25BE\Assignment.Data\bin\Debug\net9.0\Assignment.Data.runtimeconfig.json
+D:\FPT_University\Term_8\PRN231\PhuDHT_NET1717_Spring25BE\Assignment.Data\bin\Debug\net9.0\Assignment.Data.dll
+D:\FPT_University\Term_8\PRN231\PhuDHT_NET1717_Spring25BE\Assignment.Data\bin\Debug\net9.0\Assignment.Data.pdb
+D:\FPT_University\Term_8\PRN231\PhuDHT_NET1717_Spring25BE\Assignment.Data\obj\Debug\net9.0\Assignment.Data.csproj.AssemblyReference.cache
+D:\FPT_University\Term_8\PRN231\PhuDHT_NET1717_Spring25BE\Assignment.Data\obj\Debug\net9.0\Assignment.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_University\Term_8\PRN231\PhuDHT_NET1717_Spring25BE\Assignment.Data\obj\Debug\net9.0\Assignment.Data.AssemblyInfoInputs.cache
+D:\FPT_University\Term_8\PRN231\PhuDHT_NET1717_Spring25BE\Assignment.Data\obj\Debug\net9.0\Assignment.Data.AssemblyInfo.cs
+D:\FPT_University\Term_8\PRN231\PhuDHT_NET1717_Spring25BE\Assignment.Data\obj\Debug\net9.0\Assignment.Data.csproj.CoreCompileInputs.cache
+D:\FPT_University\Term_8\PRN231\PhuDHT_NET1717_Spring25BE\Assignment.Data\obj\Debug\net9.0\Assignment.Data.dll
+D:\FPT_University\Term_8\PRN231\PhuDHT_NET1717_Spring25BE\Assignment.Data\obj\Debug\net9.0\refint\Assignment.Data.dll
+D:\FPT_University\Term_8\PRN231\PhuDHT_NET1717_Spring25BE\Assignment.Data\obj\Debug\net9.0\Assignment.Data.pdb
+D:\FPT_University\Term_8\PRN231\PhuDHT_NET1717_Spring25BE\Assignment.Data\obj\Debug\net9.0\Assignment.Data.genruntimeconfig.cache
+D:\FPT_University\Term_8\PRN231\PhuDHT_NET1717_Spring25BE\Assignment.Data\obj\Debug\net9.0\ref\Assignment.Data.dll

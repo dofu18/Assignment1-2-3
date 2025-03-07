@@ -1,0 +1,97 @@
+﻿{
+   "CodeGenerationMode": 5,
+   "ContextClassName": "TutoringKidDbContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Assignment.Data",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "public.BoughtCourses",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.Categories",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.CourseCategories",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.Courses",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.Lessons",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.OrderCourses",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.Orders",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.Reviews",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.ScheduleLessons",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.Schedules",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.Transactions",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.TutorProfiles",
+         "ObjectType": 0
+      },
+      {
+         "Name": "public.Users",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}
